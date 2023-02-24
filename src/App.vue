@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Vue logo" src="http://www.ahpnet.com/AHPNet/media/AHPNetMediaLibrary/External/ahplogo.jpg">
+  <HelloWorld msg="DevOps App is Runnning!!!"/>
 </template>
 
 <script>
